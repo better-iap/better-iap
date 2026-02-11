@@ -1,0 +1,18 @@
+{
+  "name": "better-iap",
+  "version": "0.0.1",
+  "description": "A better way to do in-app purchases",
+  "license": "MIT",
+  "module": "index.ts",
+  "type": "module",
+  "repository": {
+    "url": "git+https://github.com/better-iap/better-iap.git",
+    "type": "git"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}

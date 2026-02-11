@@ -1,0 +1,19 @@
+{
+  "name": "@better-iap/trailer",
+  "version": "0.0.1",
+  "description": "Trailer plugin for better-iap",
+  "license": "MIT",
+  "module": "index.ts",
+  "type": "module",
+  "repository": {
+    "url": "git+https://github.com/better-iap/better-iap.git",
+    "type": "git",
+    "directory": "packages/trailer"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
